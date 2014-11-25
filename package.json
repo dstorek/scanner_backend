@@ -1,0 +1,23 @@
+{
+  "name": "scanner_backend",
+  "version": "1.0.0",
+  "description": "scanner_backend ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dstorek/scanner_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dstorek/scanner_backend/issues"
+  },
+  "homepage": "https://github.com/dstorek/scanner_backend",
+  "dependencies": {
+    "express": "^4.10.4",
+    "morgan": "^1.5.0"
+  }
+}
